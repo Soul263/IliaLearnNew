@@ -1,3 +1,6 @@
+import subprocess
+
+
 # Valid inputs: four lines: sum, difference, product, integer quotient.
 cases = [
     ("10 2", "12\n8\n20\n5"),
